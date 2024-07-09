@@ -36,7 +36,6 @@ import Search from './components/SearchBar/Search'
         <Route path="/player/:id" element={<Player />} />
         <Route path="/banner" element = {<Banner />} />
         <Route path="/search" element = {<Search/>}/>
-
       </Routes>
       
       </div>
